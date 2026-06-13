@@ -1,0 +1,14 @@
+body{
+    background-color: pink;
+    background-image: url("../imgs/anh nen dep.webp");
+}
+p{
+    color: rgb(0, 26, 255);
+    font-size: 40px;
+    line-height: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;/*center left right justify*/
+    font-weight: bold;/*100 200 300 400(narmal) 500 600 700(bold) 800*/
+    text-decoration: none; /*overline line-through underline*/
+    text-transform: none;/*uppercase lowercase capitalize*/
+}
