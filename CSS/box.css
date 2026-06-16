@@ -19,3 +19,9 @@ div:hover{
     transform: scale(1.15);
     /* transform: translate(100px, 200px); */
 }
+.group-x{
+    background-color: rgb(0, 217, 255);
+}
+.group-x h3{
+    color:rgb(0, 255, 76);
+}
